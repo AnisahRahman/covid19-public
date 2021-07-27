@@ -15,6 +15,11 @@ _Please submit a pull request here if you would like to request more data. Our t
    - the dates of testing and result of RT-PCR.
    - socio-demographic information, e.g. age, sex, ethnicity, comorbidities.
    - clinical stage of COVID-19/severity.
+   - The current state of those parties ie Death, recoverd or still under recovery.
+   - Probability location the patient infected (The cluster of each of the patient)
+   - The covid symptom each of them faced.
+   - Health problem of each of them.
+   - Method of each of them to avoid covid 19 ie take supplement etc.
 8) Actual positive test numbers - numbers might be delayed by a few days
   
    
